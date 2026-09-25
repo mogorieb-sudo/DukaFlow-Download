@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dukaflowdownload.netlify.app/sitemap.xml
